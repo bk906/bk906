@@ -11,8 +11,7 @@
 
 - 🎓 I’m pursuing my **master's in Information Systems** at Florida International University
 - 🌱 I’m currently learning **Python and SQL**
-- 👨‍💻 I have **1 year 8 months of experience as a System Engineer at Tata Consultancy Services**
-
+- 👨‍💻 
 <br/>
 
 <div align="center"> 
