@@ -1,56 +1,155 @@
-<img align="right" src="https://komarev.com/ghpvc/?username=bk906&label=Profile%20views&color=0e75b6&style=flat" alt="bk906" />
+```html
+<!-- ========================= HERO ========================= -->
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Bhavani+Kambam;" />
-</h1>
+<div align="center">
 
-<h3 align="center" style="color: red;"> 🔭 I'm looking for Software or Data Analytics Full-Time or Internship Roles</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:6366F1,100:8B5CF6&height=200&section=header&text=Bhavani%20Kambam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=55&descSize=18" />
 
+### ⚡ Backend Engineering • Distributed Systems • Cloud & AI Applications
 
-### About Me:
+<p>
+I build <b>scalable backend systems, distributed services, cloud-native platforms, and AI-enabled applications</b><br/>
+with a focus on <b>performance, reliability, and production-scale engineering.</b>
+</p>
 
-- 🎓 I’m pursuing my **master's in Information Systems** at Florida International University
-- 🌱 I’m currently learning **Python and SQL**
-- 👨‍💻 
 <br/>
 
-<div align="center"> 
-  <a href="mailto:bkbhanu68@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
- <!--
-<a href="https://www.linkedin.com/in/bk906/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-</a>
--->
-  <a href="https://github.com/bk906" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,css,javascript,vscode,github,git" /><br>
-</div>
-
-<h2 align="center">📊 GitHub Contributions and Activity 📊</h2>
-<div align="center">
-  <h3>🐍 My Contributions 🐍</h3>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/bk906/bk906/output/github-contribution-grid-snake.svg" />
-  <br/>
-</div>
-
-<h2 align="center">⚡ GitHub Activity ⚡</h2>
-<br>
-<div align="center">
-  <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=bk906&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=bk906&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-  <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=bk906&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-</div>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 
 <br/><br/>
 
-<hr/>
+<a href="https://www.linkedin.com/in/bhavanik06">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
-GitHub user ID: [bk906](https://github.com/bk906/bk906)
+<a href="mailto:bkbhanu68@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/bk906">
+  <img src="https://img.shields.io/badge/GitHub-Explore_My_Work-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="./Bhavani_Kambam_Resume.pdf">
+  <img src="https://img.shields.io/badge/Résumé-View-8B5CF6?style=for-the-badge&logo=readthedocs&logoColor=white" />
+</a>
+
+<br/><br/>
+
+<sub>
+⚙️ Building reliable systems where <b>backend engineering, cloud infrastructure, data, and AI</b> meet.
+</sub>
+
+</div>
+
+<!-- ======================================================== -->
+```
+```html
+<!-- ====================== ABOUT / ENGINEERING FOCUS ====================== -->
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<p align="center">
+  <b>Backend engineer at heart. Systems thinker by approach. Focused on building software that performs reliably at scale.</b>
+</p>
+
+<br/>
+
+<p>
+I'm a <b>Software Engineer</b> focused on designing and building
+<b>scalable backend services, distributed systems, cloud-native applications, and AI-enabled workflows</b>.
+My experience spans production systems across <b>cloud, data, financial services, and AI applications</b>,
+where I've worked on everything from high-throughput APIs and microservices to distributed data pipelines,
+containerized platforms, and model-inference workflows.
+</p>
+
+<p>
+I enjoy working on engineering problems where <b>scale, reliability, performance, and system design</b>
+matter — designing clean APIs, improving service resilience, optimizing data and request flows,
+and building systems that are easier to operate in production.
+</p>
+
+<br/>
+
+<h3 align="center">⚙️ What I Focus On</h3>
+
+<table align="center">
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 Backend & Distributed Systems
+
+- Java & Spring Boot services
+- Python & FastAPI APIs
+- Microservice architecture
+- REST & gRPC communication
+- Resilient service-to-service workflows
+- API design & integration patterns
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ Cloud-Native Engineering
+
+- AWS cloud services
+- Dockerized applications
+- Kubernetes deployments
+- CI/CD automation
+- Production deployment workflows
+- Scalable service architecture
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Data & Event-Driven Systems
+
+- Apache Airflow pipelines
+- PySpark processing
+- Amazon Redshift
+- Kafka-based architectures
+- SQL & NoSQL data stores
+- High-volume data workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI-Enabled Applications
+
+- AI-assisted metadata enrichment
+- Model inference workflows
+- Request routing & validation
+- Retry & fallback mechanisms
+- Failure analysis & monitoring
+- Production reliability for AI services
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<p align="center">
+  <i>
+    I care about more than making software work —
+    I care about making it <b>scalable, observable, maintainable, and reliable in production.</b>
+  </i>
+</p>
+
+<br/>
+
+<p align="center">
+🎓 <b>M.S. in Information Systems</b> — Florida International University
+</p>
+
+<!-- ====================================================================== -->
+```
